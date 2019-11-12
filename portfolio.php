@@ -11,7 +11,7 @@ $dateWritten = "11/08/2018";
 $description = "Portfolio page of JPWeb website";
 $title = "JPWeb Design Portfolio";
 $pageID = "portfolio";
-$dbName = "projectJP";
+$dbName = "jpellweb_projectJP";
 $authenticated = 0;
 $siteFlag = 0;
 

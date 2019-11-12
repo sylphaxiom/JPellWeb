@@ -12,7 +12,7 @@ $dateWritten = "11/08/2018";
 $description = "Home page of JPWeb website";
 $title = "Professional Web Design for Company or Personal Websites";
 $pageID = "index";
-$dbName = "projectJP";
+$dbName = "jpellweb_projectJP";
 $authenticated = 0;
 $siteFlag = 0;
 

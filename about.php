@@ -11,7 +11,7 @@ $dateWritten = "11/08/2018";
 $description = "About page of JPWeb website";
 $title = "About JPWeb: Jacob Pell";
 $pageID = "about";
-$dbName = "projectJP";
+$dbName = "jpellweb_projectJP";
 $authenticated = 0;
 $siteFlag = 0;
 
