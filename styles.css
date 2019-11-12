@@ -6,7 +6,7 @@ Used to modify or specify bootstrap framework
 */
 
 #mainWrapper {
-/*	max-width: 1350px;*/
+	padding: 0!important;
 }
 
 .header {
@@ -16,11 +16,47 @@ Used to modify or specify bootstrap framework
 nav ul {
 	width: 100%;
 }
-article p {
-	margin: 20px;
+article.home h2 {
+	padding-top: 10%!important;
+	margin-top: 0px!important;
 }
-article {
-	margin: 25px;
+article.home p, article.home h2 {
+	margin: 20px;
+	font-weight: bold;
+	color: #0d6a7c;
+	z-index: 1;
+	position: relative;
+}
+article.home {
+	padding: 0!important;
+	height: 500px!important;
+}
+div.collab {
+	background: #70C7E6 url("img/client.jpg") no-repeat center;
+	background-size: cover;
+	opacity: 0.3;
+	z-index: -1;
+	position: absolute;
+	width: 100%!important;
+	height: inherit;
+}
+div.proj {
+	background: #70C7E6 url("img/website.png") no-repeat center;
+	background-size: cover;
+	opacity: 0.3;
+	z-index: -1;
+	position: absolute;
+	width: 100%!important;
+	height: inherit;
+}
+div.process {
+	background: #70C7E6 url("img/design.jpg") no-repeat center;
+	background-size: cover;
+	opacity: 0.3;
+	z-index: -1;
+	position: absolute;
+	width: 100%!important;
+	height: inherit;
 }
 .round {
 	border-radius: 50%;
