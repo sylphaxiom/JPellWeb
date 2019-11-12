@@ -31,15 +31,15 @@ SECDOC;
 echo <<<SECDOC
 <article class="container-fluid text-center home">
     <div class="proj"></div>
-  <h2 class="mx-auto">What do I bring to your next project?</h2>
-  <p class="col-md-6 mx-auto">Every client's needs are different and unique. What you are looking for in your next website, or re-design, may be very different from anyone else. I work with server-side and client-side tools to make sure that your users or customers have the web experience you want them to have. Whether you are looking for security in your administrator pages, or functionality for your next UX project, contact me to see what I can do for you!</p>
+  	<h2 class="mx-auto">What do I bring to your next project?</h2>
+  	<p class="col-md-6 mx-auto">Every client's needs are different and unique. What you are looking for in your next website, or re-design, may be very different from anyone else. I work with server-side and client-side tools to make sure that your users or customers have the web experience you want them to have. Whether you are looking for security in your administrator pages, or functionality for your next UX project, contact me to see what I can do for you!</p>
 </article>
 SECDOC;
 echo <<<SECDOC
 <article class="container-fluid text-center home">
     <div class="process"></div>
-  <h2 class="mx-auto">How does this process work?</h2>
-  <p class="col-md-6 mx-auto">The steps of creating and building a website can be a daunting task for many. There are a lot of things to consider like layouts, content, features, and even how the site is being hosted. I will help and walk you through these steps and try to make the process as simple as possible for you. We will work together on all steps of the process from the initial design and planning, all the way to the moment your website hits the web!</p>
+  	<h2 class="mx-auto">How does this process work?</h2>
+  	<p class="col-md-6 mx-auto">The steps of creating and building a website can be a daunting task for many. There are a lot of things to consider like layouts, content, features, and even how the site is being hosted. I will help and walk you through these steps and try to make the process as simple as possible for you. We will work together on all steps of the process from the initial design and planning, all the way to the moment your website hits the web!</p>
 </article>
 SECDOC;
 
